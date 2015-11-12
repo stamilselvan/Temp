@@ -1,7 +1,7 @@
 # Master Thesis
 ## Technical University of Berlin
 
-My Master Thesis work is carried out at Airbus Defence and Space, Ulm on the topic of **Reduction  of Radar Processing Latency.** 
+My Master Thesis work is carried out at Airbus Defence and Space, Ulm titled ***Reduction  of Radar Processing Latency.*** 
 
 ####Target Architecture
 ARM Cortex A9.
